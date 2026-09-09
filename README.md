@@ -14,6 +14,12 @@ county-level opportunity zones for produced water reuse.
 - Disposal stress index per county
 - Ranked opportunity zones with composite score
 
+## Live map
+**[View interactive opportunity map →](https://atosiroy.github.io/produced-water-opportunity-mapping)**
+
+9 toggleable layers — PW supply · TDS salinity · Water demand 2025 · SWD wells
+
+
 ## Tech stack
 Python · geopandas · scikit-learn · folium · pandas · contextily
 
