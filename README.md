@@ -4,7 +4,7 @@ A geospatial ML pipeline that identifies high-value produced water
 reuse deployment zones across New Mexico in the United States.
 
 ## What this does
-Integrates 6 public regulatory datasets (N) into a reproducible spatial database, then
+Integrates 6 public regulatory datasets into a reproducible spatial database, then
 applies unsupervised clustering to surface statistically validated
 county-level opportunity zones for produced water reuse.
 
@@ -20,7 +20,7 @@ Python · geopandas · scikit-learn · folium · pandas · contextily
 
 ## How to run
 ```bash
-git clone git@github.com:oleava-technologie/produced-water-opportunity-mapping.git
+git clone git@github.com:oleava-technologies/produced-water-opportunity-mapping.git
 cd produced-water-opportunity-mapping
 pip install -r requirements.txt
 jupyter notebook notebooks/01_data_ingestion.ipynb
@@ -31,3 +31,4 @@ of sources, access dates, and assumptions.
 
 ## Licence
 MIT
+
